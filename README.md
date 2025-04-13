@@ -2,7 +2,7 @@
 Welcome to Sundown Studio, a highly interactive, animated, and responsive portfolio website designed for a creative studio or design-focused team. Built with modern tools and clean UI/UX principles, this project showcases animations, scroll effects, sliders, and responsive design.
 
 🔗 Live Preview
-👉 sundown-studio-beta-eight.vercel.app
+👉https://sundown-studio-beta-eight.vercel.app/
 
 🔧 Features
 Smooth scrolling animations with Locomotive Scroll
